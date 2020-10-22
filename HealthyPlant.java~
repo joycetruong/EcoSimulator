@@ -1,0 +1,9 @@
+/**
+ * [ HealthyPlant.java ]
+ * Initialise the healthy plant object, which gives back health to sheep
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class HealthyPlant {
+}

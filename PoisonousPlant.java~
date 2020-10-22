@@ -1,0 +1,9 @@
+/**
+ * [ PoisonousPlant.java ]
+ * Initialise the poisonous plant object, which gives makes sheep lose health
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class PoisonousPlant {
+}

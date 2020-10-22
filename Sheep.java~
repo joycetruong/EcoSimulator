@@ -1,0 +1,14 @@
+/**
+ * [ Sheep.java ]
+ * Program to initialise the sheep object
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class Sheep extends Animal {
+  
+  Sheep (int health, int x, int y) { 
+    super (health, x, y);
+  }
+  
+}

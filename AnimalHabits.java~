@@ -1,0 +1,16 @@
+/**
+ * [ AnimalHabits.java ]
+ * Program to initialise what animals can do
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+interface AnimalHabits {
+  
+  public void loseHealthPerTurn () {
+  public void down();
+  public void left();
+  public void right();
+  
+
+}

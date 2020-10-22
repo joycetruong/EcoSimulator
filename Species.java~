@@ -1,0 +1,28 @@
+/**
+ * [ Species.java ]
+ * Program to initialise the animal object
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class Species {
+  
+  private int health;
+  private int x, y;
+  private int numberOfType;
+  
+  Species (int health, int x, int y) { 
+    this.health = health;
+    this.x = x;
+    this.y = y;
+  }
+  
+  public int getHealth(){
+    return this.health;
+  }
+  
+  public int getNumberOfType(){
+    return this.numberOfType;
+  }
+  
+}

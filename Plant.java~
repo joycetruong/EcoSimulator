@@ -1,0 +1,28 @@
+/**
+ * [ Plant.java ]
+ * Program to initialise the plant object
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class Plant {
+  
+  private int nutrition;
+  private int x, y;
+  private int spawnRate;
+  
+  Plant (int nutrition, int x, int y) { 
+    this.nutrition = nutrition;
+    this.x = x;
+    this.y = y;
+  }
+  
+  public int getNutrition(){
+    return this.nutrition;
+  }
+  
+  public int spawnRate(){
+    return this.spawnRate;
+  }
+  
+}

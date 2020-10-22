@@ -1,0 +1,9 @@
+/**
+ * [ EnergizingPlant.java ]
+ * Initialise the energizing plant object, which gives back energy to sheep
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class EnergizingPlant {
+}

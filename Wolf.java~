@@ -1,0 +1,14 @@
+/**
+ * [ Wolf.java ]
+ * Program to initialise the wolf object
+ * Created By: Joyce Truong
+ * 25 November 2017
+ */
+
+class Wolf extends Animal {
+  
+  Wolf (int health, int x, int y) { 
+    super (health, x, y);
+  }
+  
+}
